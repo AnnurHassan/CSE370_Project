@@ -1,1 +1,0 @@
-# A e-commerce store project using php and mysql intended for the final project submission for my CSE370 Course. 
