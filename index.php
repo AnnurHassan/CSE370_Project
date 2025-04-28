@@ -27,7 +27,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>Welcome to My Website</h1>
+            <h1>Welcome to Website</h1>
         </div>
     </header>
 
